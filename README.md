@@ -1,3 +1,3 @@
 # java-algorithms
 
-Solutions to algorithms problems that I have written in Java.
+My solutions (in Java) to interesting algorithms problems that I have solved.
